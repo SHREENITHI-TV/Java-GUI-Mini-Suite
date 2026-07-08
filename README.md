@@ -1,6 +1,10 @@
 # ☕ Java GUI Mini‑Suite (NetBeans Projects)
 
-[![Java](https://img.shields.io/badge/Java-8%2B-orange)](#) [![NetBeans](https://img.shields.io/badge/Apache%20NetBeans-IDE%2016-blue)](#) [![Build](https://img.shields.io/badge/Build-Ant%20%2F%20NetBeans-success)](#)
+[![Java](https://img.shields.io/badge/Java-Swing-orange)](#)
+[![IDE](https://img.shields.io/badge/IDE-Apache%20NetBeans-blue)](#)
+[![Apps](https://img.shields.io/badge/Projects-3%20Mini%20Apps-green)](#)
+[![Build](https://img.shields.io/badge/Build-JAR%20Files-purple)](#)
+[![Focus](https://img.shields.io/badge/Focus-GUI%20%26%20Event%20Handling-lightgrey)](#)
 
 A small collection of **three Java Swing desktop apps** built in **Apache NetBeans IDE 16**:
 
